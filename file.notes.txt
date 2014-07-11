@@ -1,0 +1,30 @@
+PLOS thesaurus naming convention:
+
+PLOS thesauri are named according to the format: plosthes.YYYY-n
+Thus plosthes.2014-1 was the first version of the thesaurus built during calendar year 2014, with plosthes.2014-2 being the next.
+The most recent version displayed corresponds to that behind the live PLOS journal web sites, as far as is possible.
+
+Earlier versions (from throughout 2013) of the thesaurus can be made available, if useful.
+
+
+This repository includes files of these formats:
+
+plosthes.YYYY-n.full.xlsx:
+The full Subject Area term list represented hierarchically by tier.
+
+plosthes.YYYY-n.synonyms.xlsx:
+The full Subject Area term list with corresponding synonymous terms, where relevant.
+
+plosthes.YYYY-n.extract.xml:
+The full thesaurus, listing:
+<T>Term</T>
+<BT>Broader Term</BT>
+<NT>Narrower Term</NT>
+<RT>Related Term</RT> [Not a priority for PLOS]
+<Synonym>Synonym<Synonym>
+<History>History</History> [Limited to changes made during the editorial lifetime of this version]
+Internal Editorial Notes have been omitted.
+
+We distribute this work under a CC-BY license (http://creativecommons.org/licenses/by/2.5/)
+
+Questions and comments can be sent to subjectareas@plos.org.
