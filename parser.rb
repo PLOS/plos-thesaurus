@@ -2,7 +2,7 @@ require 'xmlsimple'
 require 'json'
 require 'pry'
 
-xml_filename = 'plosthes.2014-2.extract.xml'
+xml_filename = 'plosthes.2014-3.extract.xml'
 xml_data = File.open(xml_filename, 'r')
 data = XmlSimple.xml_in(xml_data)
 
