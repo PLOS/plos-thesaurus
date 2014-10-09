@@ -25,6 +25,5 @@ The full thesaurus, listing:
 <History>History</History> [Limited to changes made during the editorial lifetime of this version]
 Internal Editorial Notes have been omitted.
 
-We distribute this work under a CC-BY license (http://creativecommons.org/licenses/by/2.5/)
 
 Questions and comments can be sent to subjectareas@plos.org.
