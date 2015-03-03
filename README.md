@@ -2,8 +2,6 @@ plos-thesaurus
 ==============
 <<<<<<< HEAD
 The "Subject Areas" panel on each article page displays a set of terms selected for that article based on its content. The Subject Areas belong to a thesaurus of over 10,000 terms initially built for us over the course of 2012 by Access Innovations, taking into account the controlled vocabulary of classification terms that had been in use in PLOS Editorial Manager. The entire corpus of PLOS articles was analysed to ensure that the thesaurus covers the research domain comprehensively.
-=======
-The "Subject Areas" panel on each article page displays a set of terms selected for that article based on its content. The Subject Areas belong to a thesaurus of over 10,000 terms initially built for us over the course of 2012 by [Access Innovations](http://www.accessinn.com/), taking into account the controlled vocabulary of classification terms that had been in use in PLOS Editorial Manager. The entire corpus of PLOS articles was analysed to ensure that the thesaurus covers the research domain comprehensively.
 >>>>>>> origin/master
 
 Specific terms are associated with articles by Machine Aided Indexing (MAI) which identifies text strings in the articles and matches them to Subject Area terms from the thesaurus. The output ranks the matches in order of frequency of hits within the text of the article and the top eight terms are selected for display. Whereas previously the eight terms were presented in alphabetical order, we are introducing weightings to the Subject Area panel, such that the order of Subject Areas will reflect the frequency of hits in the MAI process. This new presentation will be introduced progressively, beginning with the main Article tab.
