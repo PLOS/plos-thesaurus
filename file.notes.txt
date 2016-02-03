@@ -25,5 +25,10 @@ The full thesaurus, listing:
 <History>History</History> [Limited to changes made during the editorial lifetime of this version]
 Internal Editorial Notes have been omitted.
 
+plosthes.YYYY-n.SALPs.xlsx
+A listing of Subject Area terms associated with PLOS ONE articles, paired with the corresponding Subject Area landing page from the PLOS ONE journal web site.
+Note: Not all Subject Areas in the PLOS thesaurus are associated with a PLOS ONE article, so the number of rows in this file is exceeded by the total number of Subject Area terms in the corresponding thesaurus.
+Note also that, rarely, a Subject Area landing page may be invoked for a particular thesaurus version subsequently to this download being prepared. This happens if a newly published article is assigned a Subject Area term that had previously not been used for a PLOS ONE article.
+
 
 Questions and comments can be sent to subjectareas@plos.org.
