@@ -30,5 +30,16 @@ A listing of Subject Area terms associated with PLOS ONE articles, paired with t
 Note: Not all Subject Areas in the PLOS thesaurus are associated with a PLOS ONE article, so the number of rows in this file is exceeded by the total number of Subject Area terms in the corresponding thesaurus.
 Note also that, rarely, a Subject Area landing page may be invoked for a particular thesaurus version subsequently to this download being prepared. This happens if a newly published article is assigned a Subject Area term that had previously not been used for a PLOS ONE article.
 
+plosthes.YYYY-n.SKOS.pdf
+Under development - format is a work in progress and may change in detail with further refinements.
+Includes:
+<skos:prefLabel>Term</skos:prefLabel>
+<foaf:homepage rdf:resource="url for PLOS ONE Subject Area Landing Page, where one exists"/>
+<skos:broader rdf:resource="Broader Term"/>
+<skos:narrower rdf:resource="Narrower Term"/>
+<skos:altLabel>Synonym</skos:altLabel>
+<Previous_Classification rdf:datatype="&xsd;string">Classifictaion Tracking Number</Previous_Classification> NOTE these codes are not stable and are used solely for mapping in the PLOS manuscript submission system between thesaurus updates. 
+<skos:scopeNote>Explanatory text/Definition</skos:scopeNote>
+
 
 Questions and comments can be sent to subjectareas@plos.org.
