@@ -1,4 +1,4 @@
-#plos-thesaurus
+# plos-thesaurus
 Welcome to the repository for the PLOS Thesaurus. 
 
 PLOS aims to update the thesaurus and re-index all articles several times each year. Download current and previous versions of the thesaurus files [here](https://github.com/PLOS/plos-thesaurus/releases).
