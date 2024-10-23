@@ -3,8 +3,6 @@ Welcome to the repository for the PLOS Thesaurus.
 
 PLOS aims to update the thesaurus and re-index all articles several times each year. Download current and previous versions of the thesaurus files [here](https://github.com/PLOS/plos-thesaurus/releases).
 
-To report any incorrectly applied terms, click the target symbol next to the term on the article page, or email taxonomy@plos.org. 
-
 ## Subject Area terms
 The Subject Areas panel on each PLOS article displays eight terms selected from over 10,000 available. Subsequently, clicking on a Subject Area term in an article returns a list of all articles related to that term. Each article’s XML download provides the eight Subject Area terms listed on the article page and includes broader terms from all the paths leading back to these eight.
 
